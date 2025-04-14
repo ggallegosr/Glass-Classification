@@ -1,1 +1,3 @@
-# Sistemas-Inteligentes-2024-II
+# Clasificación Multiclase - Glass Classification
+
+El proyecto presenta diferentes algoritmos de aprendizaje supervisado para la tarea de clasificación, se realiza el análisis a partir de los resultados de cada técnica para definir cual es la óptima,  sin embargo, el conjunto de datos "Glass" está desbalanceado por lo que se realiza la normalización para todo el conjunto y oversampling en las clases con menor número de muestras, se realiza el proyecto para evidenciar la importancia del procesamiento de los datos y como repercute en las previsiones de las técnicas, se desarrolla el contraste de los resultados cuando los datos no se preprocesan, normalizados y normalizados con oversampling.
